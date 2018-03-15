@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/voxelvortex/YoutubeDownloader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/voxelvortex/STT.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Michael\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\Michael\PycharmProjects\VoiceRecognition" />
   </component>
 </application>
